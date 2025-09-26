@@ -5,7 +5,8 @@ The core script is:main_VAR.R – downloads data from FRED, constructs quarterly
 
 Two time-span versions are provided:Version A: 1965Q3–1995Q3. Version B: 1974Q3–2024Q3
 
-Each version produces one dataset (cee.csv), one IRF figure (Fig1.pdf / Fig1.png), and one FEVD table (Table1.csv).
+A version produces one dataset (cee.csv), one IRF figure (Fig1.pdf / Fig1.png), and one FEVD table (Table1.csv).
+B version produces one dataset (ceenew.csv), one IRF figure (Fig1_new.pdf / Fig1_new.png), and one FEVD table (Table1_new.csv).
 
 Required Packages:
 library(fredr)
